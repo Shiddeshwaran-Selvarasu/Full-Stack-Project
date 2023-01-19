@@ -985,6 +985,13 @@ textarea#comment::placeholder {
     font-weight: bold;
 }
 
+.profile_img {
+    width: 30px;
+    height: 30px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 .send_bt a:hover {
     color: #ffffff;
     background-color: #0c1045;
