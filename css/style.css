@@ -262,6 +262,11 @@ button {
     color: #f8f9fa;
 }
 
+.notifi_img {
+    width: 700px;
+    height: 700px;
+}
+
 .banner_section {
     width: 100%;
     float: left;
@@ -279,6 +284,23 @@ button {
     color: #fdfdfe;
     text-align: center;
     text-transform: uppercase;
+}
+
+.banner_taital_noti {
+    width: 100%;
+    float: left;
+    font-size: 50px;
+    text-align: center;
+    text-transform: uppercase;
+    padding-bottom: 50px;
+}
+
+.dash_content {
+    display: flex;
+    width: 100%;
+    float: left;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .image_main {
@@ -811,6 +833,11 @@ button {
     color: #8d8d90;
     background-color: #e7e7ec;
     margin-right: 20px;
+}
+
+.cont_strech {
+    flex-direction: column;
+    justify-content: stretch;
 }
 
 .tag_bt li a {
