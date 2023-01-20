@@ -370,6 +370,130 @@ button {
     color: #000;
 }
 
+#my_slider1 a.carousel-control-next {
+    position: absolute;
+    right: 15px;
+    top: 40%;
+}
+
+#my_slider1 a.carousel-control-prev {
+    position: absolute;
+    left: 15px;
+    top: 40%;
+    background-color: #18171756;
+}
+
+#my_slider1 .carousel-control-prev,
+#my_slider1 .carousel-control-next {
+    width: 68px;
+    height: 68px;
+    background: #18171756;
+    opacity: .4;
+    font-size: 30px;
+    color: #000;
+}
+
+#my_slider1 .carousel-control-prev:hover,
+#my_slider1 .carousel-control-next:hover,
+#my_slider1 .carousel-control-prev:focus,
+#my_slider1 .carousel-control-next:focus {
+    background-color: #ffffff;
+    color: #000;
+}
+
+#my_slider2 a.carousel-control-next {
+    position: absolute;
+    right: 15px;
+    top: 50%;
+}
+
+#my_slider2 a.carousel-control-prev {
+    position: absolute;
+    left: 15px;
+    top: 50%;
+    background-color: #18171756;
+}
+
+#my_slider2 .carousel-control-prev,
+#my_slider2 .carousel-control-next {
+    width: 68px;
+    height: 68px;
+    background: #18171756;
+    opacity: .4;
+    font-size: 30px;
+    color: #000;
+}
+
+#my_slider2 .carousel-control-prev:hover,
+#my_slider2 .carousel-control-next:hover,
+#my_slider2 .carousel-control-prev:focus,
+#my_slider2 .carousel-control-next:focus {
+    background-color: #ffffff;
+    color: #000;
+}
+
+#my_slider3 a.carousel-control-next {
+    position: absolute;
+    right: 15px;
+    top: 40%;
+}
+
+#my_slider3 a.carousel-control-prev {
+    position: absolute;
+    left: 15px;
+    top: 40%;
+    background-color: #18171756;
+}
+
+#my_slider3 .carousel-control-prev,
+#my_slider3 .carousel-control-next {
+    width: 68px;
+    height: 68px;
+    background: #18171756;
+    opacity: .4;
+    font-size: 30px;
+    color: #000;
+}
+
+#my_slider3 .carousel-control-prev:hover,
+#my_slider3 .carousel-control-next:hover,
+#my_slider3 .carousel-control-prev:focus,
+#my_slider3 .carousel-control-next:focus {
+    background-color: #ffffff;
+    color: #000;
+}
+
+#my_slider4 a.carousel-control-next {
+    position: absolute;
+    right: 15px;
+    top: 50%;
+}
+
+#my_slider4 a.carousel-control-prev {
+    position: absolute;
+    left: 15px;
+    top: 50%;
+    background-color: #18171756;
+}
+
+#my_slider4 .carousel-control-prev,
+#my_slider4 .carousel-control-next {
+    width: 68px;
+    height: 68px;
+    background: #18171756;
+    opacity: .4;
+    font-size: 30px;
+    color: #000;
+}
+
+#my_slider4 .carousel-control-prev:hover,
+#my_slider4 .carousel-control-next:hover,
+#my_slider4 .carousel-control-prev:focus,
+#my_slider4 .carousel-control-next:focus {
+    background-color: #ffffff;
+    color: #000;
+}
+
 .touch_setion {
     width: 100%;
     float: left;
@@ -902,8 +1026,8 @@ button {
 .contact_section {
     width: 100%;
     float: left;
-    padding-bottom: 90px;
-    padding-top: 170px;
+    padding-bottom: 60px;
+    padding-top: 60px;
 }
 
 .login_section {
