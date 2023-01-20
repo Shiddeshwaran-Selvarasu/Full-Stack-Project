@@ -349,14 +349,14 @@ button {
     position: absolute;
     left: 0px;
     top: 20%;
-    background-color: #ffffff;
+    background-color: #ffffff00;
 }
 
 #my_slider .carousel-control-prev,
 #my_slider .carousel-control-next {
     width: 68px;
     height: 68px;
-    background: #ffffff;
+    background: #ffffff00;
     opacity: 1;
     font-size: 30px;
     color: #000;
